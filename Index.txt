@@ -12,6 +12,22 @@ Estructura de un patron
 - Un sistema de fuerzas que surgen en el contexto
 - Una configuracion que permiten que estas fuerzas se resuelvan en contexto.
 
+* patron de diseño creacional
+
+Se centran en el manejo del mecanismo de la creacion de objectos de maneras adecuadas
+para la situacion que estemos trabajando. este patron controla el proceso de creacion
+entran en esta categoria: Constructor, fabrica, Resumen, Prototipo, Singleton.
+
+* Patron de Diseño Estructural 
+
+Se ocupan de la composicion de los objectos e identifican formas simples de realizar rela
+ciones entre diferentes objectos. Se replantean partes del sistema para ajustarlos
+entran a esta catgoria: Decorador, fachada, Mosca, Adaptador y Proxy
+
+* patron de diseño de comportamiento
+
+Se centran en mejorar la comunicacion ente objectos dispares de un sistema. Entre ellos 
+estan iterador, mediador, observador y visitante.
 
 
 
