@@ -1,6 +1,6 @@
 /**
  * Se crea un objecto con new, this se usa para para ayudar a definir
- * nuevas propiedades y metodos para el objecto.
+ * nuevas propiedades y metodos para el objeto.
  */
 
 function Car(model) {
