@@ -1,0 +1,17 @@
+Un patron es una solucion re-utilizable que se puede aplicar a problemas comunes 
+en el diseño de software. tambien aplican a plantillas de como resolvemos problemas,
+qeu se pueden usar en muchas maneras diferentes. Caracteristicas principales:
+
+- soluciones probadas
+- re-utilizar facilmente
+- expresivos
+
+Estructura de un patron
+
+- Un contexto.
+- Un sistema de fuerzas que surgen en el contexto
+- Una configuracion que permiten que estas fuerzas se resuelvan en contexto.
+
+
+
+
